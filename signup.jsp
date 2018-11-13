@@ -24,7 +24,7 @@ button:hover
 </font>
 
 <center>
-<div style="background-color:grey;height:1230px;width:1000px;">
+<div style="background-color:grey;height:1230px;width:1000px;padding: 0px 20px 20px 20px;">
 <form style = "font-family:Comic Sans Ms">
 <fieldset>
 <legend style = "text-align:center;font-size:40px;">Sign Up</legend>
